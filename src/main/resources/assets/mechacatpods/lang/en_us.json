@@ -1,0 +1,13 @@
+{
+  "itemGroup.mechacatpods": "Example Mod Tab",
+  "block.mechacatpods.example_block": "Example Block",
+  "item.mechacatpods.example_item": "Example Item",
+
+  "mechacatpods.configuration.title": "Mecha Cat Pods Configs",
+  "mechacatpods.configuration.section.mechacatpods.common.toml": "Mecha Cat Pods Configs",
+  "mechacatpods.configuration.section.mechacatpods.common.toml.title": "Mecha Cat Pods Configs",
+  "mechacatpods.configuration.items": "Item List",
+  "mechacatpods.configuration.logDirtBlock": "Log Dirt Block",
+  "mechacatpods.configuration.magicNumberIntroduction": "Magic Number Text",
+  "mechacatpods.configuration.magicNumber": "Magic Number"
+}
